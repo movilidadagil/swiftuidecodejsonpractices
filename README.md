@@ -1,1 +1,2 @@
 # swiftuidecodejsonpractices
+![Screenshot](jsonlistpractice.png)
