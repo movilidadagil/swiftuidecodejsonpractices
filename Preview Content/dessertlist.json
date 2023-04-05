@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "submenus": [
+            {
+                "name": "tatlı1",
+                "imagename": "Screen Shot 2023-03-24 at 16.35.33.png",
+                "price": "90",
+                "uuid": "e73f11b0-6373-400e-a485-bb834e6f28c8",
+                "description": "tatlı1",
+                "currencyunit": "₺"
+            }
+        ],
+        "venusmenuuid": "6b2e7bff-9931-4b77-b752-299e733fe755",
+        "dessertlistuuid": "e73f11b0-6373-400e-a485-bb834e6f28c8"
+    }
+]
